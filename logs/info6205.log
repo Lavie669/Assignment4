@@ -1,0 +1,97 @@
+2021-03-01 18:49:29 DEBUG Config - Config.get(helper, instrument) = true
+2021-03-01 18:49:29 DEBUG Config - Config.get(helper, seed) = 0
+2021-03-01 18:49:29 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-03-01 18:49:29 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-03-01 18:49:29 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-03-01 18:49:29 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-03-01 18:49:29 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-03-01 18:49:29 DEBUG Config - Config.get(helper, cutoff) = 
+2021-03-01 18:49:29 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-03-01 18:50:20 DEBUG Config - Config.get(helper, instrument) = true
+2021-03-01 18:50:20 DEBUG Config - Config.get(helper, seed) = 0
+2021-03-01 18:50:20 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-03-01 18:50:20 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-03-01 18:50:20 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-03-01 18:50:20 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-03-01 18:50:20 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-03-01 18:50:20 DEBUG Config - Config.get(helper, cutoff) = 
+2021-03-01 18:50:20 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-03-01 18:50:22 DEBUG Config - Config.get(main, version) = 1.0.0 (test)
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:32 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:33 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:34 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:34 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:35 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:38 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:44 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:44 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:50:46 INFO  Benchmark_Timer - Begin run: InsertionSort experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 18:52:16 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:11 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:12 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:12 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:12 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:13 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:14 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:15 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:17 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:19 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:23 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:04:28 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:04:40 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:56 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:57 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:58 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:11:58 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:11:59 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
+2021-03-01 19:12:00 INFO  Benchmark_Timer - Begin run: UF_HWQUPC experiments with 1,000 runs
+2021-03-01 19:12:02 INFO  Benchmark_Timer - Begin run: UF_HWQUPC_ALT experiments with 1,000 runs
