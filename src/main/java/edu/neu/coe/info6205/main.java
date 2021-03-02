@@ -69,6 +69,7 @@ public class main {
         return count;
     }
 
+
     public static double countOG(int n){
         WQUPC client = new WQUPC(n);
         Integer[] xs = new Integer[n];
